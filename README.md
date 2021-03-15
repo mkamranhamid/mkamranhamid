@@ -13,11 +13,5 @@
 - 🌱 I’m currently learning **self branding**
 - 🧐 I’m looking for good **open source** projects to contribute in.
 - 💬 Ask me about **development**, **design system**.
-- ⚡ Fun fact:  I likes to play **video games**
+- ⚡ Fun fact:  I likes to **run**, **play video games**
 
-
-## ☕ Wanna chat
-
-You can always **@** me on twitter if you're looking for a mentor or need help anything javascript related. I'd be happy to help you 😃. 
-
-* Twitter [@mkamranhamid](https://twitter.com/mkamranhamid)
