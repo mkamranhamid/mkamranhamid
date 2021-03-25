@@ -13,5 +13,5 @@
 - 🌱 I’m currently learning **self branding**
 - 🧐 I’m looking for good **open source** projects to contribute in.
 - 💬 Ask me about **development**, **design system**.
-- ⚡ Fun fact:  I likes to **run**, **play video games**
+- ⚡ Fun fact:  I like to **run** in the morning, **read articles**, **write articles** and sometimes play **games**
 
